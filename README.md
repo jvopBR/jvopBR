@@ -1,4 +1,4 @@
-### Hi!!
+### Hi!! I'am a brazilian programmer. Nice to meet you!
 
 - 📄 Nicknames: jvopBR - JustAnotherOne - Mathew
 - 🌱 I’m currently learning: Javascript
