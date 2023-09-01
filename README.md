@@ -1,6 +1,6 @@
 ### Hi!! I'am a brazilian programmer. Nice to meet you!
 
-- 📄 Nicknames: - JustAnotherOne
+- 📄 Nicknames: - JustAnotherOne / you
 - 🌱 I’m currently learning: C# language
 - 😄 Pronouns: ela/dela - ele/dele - he/she
 
