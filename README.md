@@ -1,4 +1,4 @@
-### Hi!! I'am a brazilian programmer. Nice to meet you!
+### Hi!! I'am a brazilian dev. Nice to meet you!
 
 - 📄 Nicknames: - JustAnotherOne / you
 - 🌱 I’m currently learning: C# language
