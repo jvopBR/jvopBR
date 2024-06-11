@@ -1,7 +1,7 @@
 ### Hi!! I'am a brazilian dev. Nice to meet you!
 
 - 📄 Nicknames: - JustAnotherOne / you
-- 🌱 I’m currently learning: C# language
+- 🌱 I’m currently learning: Java 
 - 😄 Pronouns: ela/dela - ele/dele - he/she
 
 ## Languages & tools  
