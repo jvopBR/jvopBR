@@ -1,6 +1,6 @@
 ### Hi!! I'am a brazilian dev. Nice to meet you!
 
-- 📄 Nome: João Vitor Mendonça Merlin
+- 📄 Name: João Vitor Mendonça Merlin
 - 🌱 I’m currently learning: Java 
 - 😄 Pronouns: ela/dela - ele/dele - he/she
 
